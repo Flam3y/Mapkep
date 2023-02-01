@@ -1,0 +1,9 @@
+{
+  "server_list": [
+    {
+      "ip": "localhost",
+      "port": 6666
+    }
+  ],
+  "source": "http://192.168.1.31:12345/video"
+}
