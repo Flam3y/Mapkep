@@ -21,7 +21,6 @@ def notify():
 	event.clear()
 	while ClientMainWindow.isVisible():
 		event.wait()
-		print("Ъ")
 		toaster.show_toast("Маркер",
 						   "Замечен списывающий!",
 						   icon_path="hand.ico",
